@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @superhe5o
-- 👀 I’m interested in ...programming electricity 
+- 👀 I’m interested in ...programming and electricity 
 - 🌱 I’m currently learning ...my 5th semester in faculty of engineering will master py soon
 - 💞️ I’m looking to collaborate on ...biomedical project
 - 📫 How to reach me ...at instagram @khaled_ahmed02
